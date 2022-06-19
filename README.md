@@ -10,7 +10,7 @@ This is a simple pip package to crack VTOP captchas. It is kept simple and fast.
 pip install capthca-crack
 ```
 
-2. Generate an aesthetic ASCII visual:
+2. Get the captcha:
 
 ```python
 from captcha_crack import vtop
