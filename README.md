@@ -7,7 +7,7 @@ This is a simple pip package to crack VTOP captchas. It is kept simple and fast.
 1. Install:
 
 ```
-pip install capthca-crack
+pip install captcha-crack
 ```
 
 2. Get the captcha:
